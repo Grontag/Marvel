@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="getheroesurl">https://gateway.marvel.com/v1/public/characters</string>
+    <string name="apikey">877bc9a9e5f7aa4df03f6eb0e62e375e</string>
+    <string name="privatekey">bc9d04bfb155fd7ab9fd3c29614da6cf75e4eebc</string>
+    <string name="loading">Cargando...</string>
+    <string name="badrest">La petición parece no haber tenido éxito, vuelva a intentarlo.</string>
+    <string name="noresource">El servicio parece no estar disponible, vuelva a intentarlo más tarde</string>
+    <string name="servererror">El servidor ha devuelto un error desconocido, vuelva a intentarlo más tarde</string>
+</resources>
